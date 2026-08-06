@@ -17,7 +17,7 @@ This script allows you to record your screen while bypassing the "Streaming" ico
 Clone the repository and make the script executable:
 
 ```bash
-git clone [https://github.com/TheNoobDevSynapse/SilentRecord4Termux](https://github.com/TheNoobDevSynapse/SilentRecord4Termux)
+git clone https://github.com/TheNoobDevSynapse/SilentRecord4Termux
 cd SilentRecord4Termux
 chmod +x record.sh
 ```
